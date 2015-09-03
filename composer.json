@@ -1,0 +1,8 @@
+{
+    "name": "interfriendz/orm",
+    "description": "Object relation mapper",
+    "require": {
+        "php": ">=5.5",
+        
+    }
+}
