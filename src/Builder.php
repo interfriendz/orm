@@ -1,2 +1,3 @@
 <?php
+abstract class Builder{}
 ?>
